@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-https://moe-counter.glitch.me/get/@:truemage
-
+<img src="https://count.getloli.com/get/@:truemage" alt=":truemage" />
 <!--
 **TrueMage/TrueMage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
