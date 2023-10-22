@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 <img src="https://count.getloli.com/get/@:truemage" alt=":truemage" />
 <!--
